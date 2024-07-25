@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../VideoLessons/FrontEnd/Cohort42-2/Lesson01"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Development/FrontendLessons/Homework/Homework01"
+		},
+		{
+			"path": "../../../../Development/FrontendLessons/Homework"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Homework01"
+	}
+}
